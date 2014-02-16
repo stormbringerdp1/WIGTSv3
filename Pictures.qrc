@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Ekranoplan.png</file>
+        <file>Engine.png</file>
+        <file>TestPassed.ico</file>
+        <file>TestNotPassed.ico</file>
+        <file>StartCircleEmpty.png</file>
+        <file>StartPassed.png</file>
+        <file>StartNotPassed.png</file>
+        <file>RemoveTabActive.ico</file>
+        <file>RemoveTabInactive.ico</file>
+    </qresource>
+</RCC>
